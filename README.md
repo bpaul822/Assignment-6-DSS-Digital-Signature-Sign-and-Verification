@@ -2,8 +2,7 @@
 Bibin Paul EE19M508 bibin.paul.c@gmail.com
 
 Procedure for running on Linux:
-Compile and Run: g++ bignum.cpp dss.cpp sha1.cpp -o dss && ./dss
-bpaul-lx01.adbldesign.analog.com[~] g++ bignum.cpp dss.cpp sha1.cpp -o dss && ./dss
+Compile and Run:  g++ bignum.cpp dss.cpp sha1.cpp -o dss && ./dss
 
 Public key is
         p=5533560204899578487112594480354737234891979899692379913185949648481993669656140225694297567305628143
