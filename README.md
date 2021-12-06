@@ -4,7 +4,9 @@ Bibin Paul EE19M508 bibin.paul.c@gmail.com
 Procedure for running on Linux:
 Compile and Run:  g++ bignum.cpp dss.cpp sha1.cpp -o dss && ./dss
 
-Ideal Case: 
+Sample Outputs: ( a). For the Ideal case when the same message and signatures(r/s) are used for signing and Verification b). Verification failing when one of the digit in message or either of the signatures r/s are changed): 
+
+* Ideal Case: 
 Public key is
         p=5533560204899578487112594480354737234891979899692379913185949648481993669656140225694297567305628143
         q=2766780102449789243556297240177368617445989949846189956592974824240996834828070112847148783652814071
@@ -37,7 +39,7 @@ Enter s : 2676287270203908208898245385379383623537779610284641142761207177005602
  
  
  
- Verification failing when one of the bit in message or signature r/s are changed.
+* Verification failing when one of the digit in message or the signature r/s are changed.
 
 Select the Mode: 1.Signature Generation 2.Verify Signature 3)Exit
 2
