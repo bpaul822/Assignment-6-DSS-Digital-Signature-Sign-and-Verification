@@ -4,6 +4,7 @@ Bibin Paul EE19M508 bibin.paul.c@gmail.com
 Procedure for running on Linux:
 
 Compile and Run:  g++ bignum.cpp dss.cpp sha1.cpp -o dss && ./dss
+Run using Linux Executable: chmod 755 dss && ./dss
 
 Sample Outputs: ( a). For the Ideal case, when the same message and signatures(r/s) are used for signing and Verification b). Verification failing when one of the digit in message or either of the generated signatures r/s are changed during verification): 
 
