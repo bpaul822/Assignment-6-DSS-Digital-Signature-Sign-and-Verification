@@ -1,5 +1,5 @@
 # Assignment-6-DSS-Digital-Signature-Sign-and-Verification
-Bibin Paul EE19M508 bibin.paul.c@gmail.com
+Bibin Paul 
 
 Procedure for running on Linux:
 
